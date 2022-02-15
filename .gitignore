@@ -139,3 +139,6 @@ introoutro
 
 # Pickle Files
 token_youtube_v3.pickle
+
+# All vide files
+*.mp4
