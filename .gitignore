@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Config Local file
+config_local.py
+client_secret.json
+
+# Videos Folder
+Download
+introoutro
+
+# Pickle Files
+token_youtube_v3.pickle
